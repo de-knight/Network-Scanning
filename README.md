@@ -65,20 +65,21 @@ Port scanning is a method where an attacker sends small test messages to a targe
 
 + ### **Some Well Known Ports**
 
-  |      **TCP Protocol**        |      **UDP Protocol**        |
-  |------------------------------|------------------------------|
-  | Application | Port Number(s) | Application | Port Number(s) |
-  |-------------|----------------|-------------|----------------|
-  | FTP         | 20-21          | DNS         | 53             |
-  | Telnet      | 23             | DHCP        | 67,68          |
-  | SMTP        | 25             | TFTP        | 69             |
-  | HTTP        | 80             | SNMP        | 161            |
-  | POP3        | 110            | IRC         | 194            |
-  | HTTPS       | 443            |             |                |
-  | SSH         | 22             |             |                |
-  | NetBIOS     | 139            |             |                |
-  | SQL         | 156            |             |                |
-  | SMB         | 139,445        |             |                |
-  | IMAP        | 143            |             |                |
+|     **TCP Protocol**           |                                |               |  **UDP Protocol**    |
+|--------------------------------|--------------------------------|---------------|----------------------|
+| Application                    | Port Number(s)                 | Application   | Port Number(s)       |
+| -------------                  | ----------------               | ------------- | ----------------     |
+| FTP                            | 20-21                          | DNS           | 53                   |
+| Telnet                         | 23                             | DHCP          | 67,68                |
+| SMTP                           | 25                             | TFTP          | 69                   | 
+| HTTP                           | 80                             | SNMP          | 161                  |   
+| POP3                           | 110                            | IRC           | 194                  |   
+| HTTPS                          | 443                            |               |                      |   
+| SSH                            | 22                             |               |                      |  
+| NetBIOS                        | 139                            |               |                      |   
+| SQL                            | 156                            |               |                      |   
+| SMB                            | 139, 445                       |               |                      |   
+| IMAP                           | 143                            |               |                      |   
+
 
   
