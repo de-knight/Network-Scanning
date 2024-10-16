@@ -32,8 +32,8 @@ During network scanning, attackers create a list of active IP addresses of compu
 
 Ports are like virtual doorways on a digital device that allow it to communicate with other devices. Each device can have up to 65,535 ports, each identified by a unique number ranging from 0 to 65,535. These ports enable different types of communication, like sending emails or browsing the web, making it possible for devices to share information and work together.
 
-  |Ports  |       |       About        |
-  |-------|-------|--------------------|
-  | 0     | 1023  | Well-known Ports   |
-  | 1024  | 49135 | Random Ports       |
-  | 49136 | 65535 | Experimental Ports |
+  |Ports         |       About        |
+  |--------------|--------------------|
+  | 0-1023       | Well-known Ports   |
+  | 1024-49135   | Random Ports       |
+  | 49136-65535  | Experimental Ports |
