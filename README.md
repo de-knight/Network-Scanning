@@ -105,3 +105,4 @@ UDP, or User Datagram Protocol, is a method for sending data over a network that
 
 To start a proper TCP connection, the sender and receiver go through a process called a "3-way handshake" before sharing data. This handshake helps both devices agree on how they will communicate. It ensures that both sides are ready to exchange data reliably. The 3-way handshake involves three steps between the two devices to confirm the connection is established and working properly. The image below shows how this process works.
 
+![TCP3WayHandshake]()
