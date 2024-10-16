@@ -74,11 +74,11 @@ Port scanning is a method where an attacker sends small test messages to a targe
   | SMTP        | 25             | TFTP        | 69             |
   | HTTP        | 80             | SNMP        | 161            |
   | POP3        | 110            | IRC         | 194            |
-  | HTTPS       | 443            |
-  | SSH         | 22             |
-  | NetBIOS     | 139            |
-  | SQL         | 156            |
-  | SMB         | 139,445        |
-  | IMAP        | 143            |
+  | HTTPS       | 443            |             |                |
+  | SSH         | 22             |             |                |
+  | NetBIOS     | 139            |             |                |
+  | SQL         | 156            |             |                |
+  | SMB         | 139,445        |             |                |
+  | IMAP        | 143            |             |                |
 
   
