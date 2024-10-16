@@ -37,3 +37,28 @@ Ports are like virtual doorways on a digital device that allow it to communicate
   | 0-1023       | Well-known Ports   |
   | 1024-49135   | Random Ports       |
   | 49136-65535  | Experimental Ports |
+
+
++ **What is port Scanning?**
+
+Port scanning is a method where an attacker sends small test messages to a target to see how it reacts. Based on the responses, the attacker can figure out which ports are open, what services are running on those ports, and even the operating system the target is using.
+
++ **List of Port Scanners**
+
+  + Nmap
+  + Zenmap
+  + Strobe
+  + SuperScan
+
++ **List of Port Scanning Methods**
+
+  + SYN Scan/Stealth Scan/
+  + TCP Connect Scan
+  + ACK Scan
+  + XMAS Scan
+  + FIN Scan
+  + NULL Scan 
+  + OS Detection Scan 
+  + Script Scan 
+  + UDP Scan 
+  + Service Detection Scan 
