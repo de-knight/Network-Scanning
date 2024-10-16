@@ -68,7 +68,6 @@ Port scanning is a method where an attacker sends small test messages to a targe
 |     **TCP Protocol**           |                                |               |  **UDP Protocol**    |
 |--------------------------------|--------------------------------|---------------|----------------------|
 | Application                    | Port Number(s)                 | Application   | Port Number(s)       |
-| -------------                  | ----------------               | ------------- | ----------------     |
 | FTP                            | 20-21                          | DNS           | 53                   |
 | Telnet                         | 23                             | DHCP          | 67,68                |
 | SMTP                           | 25                             | TFTP          | 69                   | 
@@ -80,6 +79,7 @@ Port scanning is a method where an attacker sends small test messages to a targe
 | SQL                            | 156                            |               |                      |   
 | SMB                            | 139, 445                       |               |                      |   
 | IMAP                           | 143                            |               |                      |   
+ 
 
 
   
