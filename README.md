@@ -79,6 +79,9 @@ Port scanning is a method where an attacker sends small test messages to a targe
 | SQL                            | 156                            |               |                      |   
 | SMB                            | 139, 445                       |               |                      |   
 | IMAP                           | 143                            |               |                      |   
+
+
+For details on other port numbers and services [click here](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
  
 
 
