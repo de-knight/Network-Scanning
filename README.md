@@ -84,5 +84,24 @@ Port scanning is a method where an attacker sends small test messages to a targe
 For details on other port numbers and services [click here](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
  
 
++ ### **Live Host Identification Scan**
 
-  
+  Live Host Identification Scan is the process of finding active or powered-on computers in a network by sending special packets, like ICMP (ping) or ARP requests, to see which devices respond. This helps in       identifying which computers or devices are currently online in the network.
+
+
++ ### **ICMP**
+
+ICMP stands for Internet Control Messaging Protocol, and it's commonly used to help troubleshoot network issues or detect errors with internet connections. ICMP works by sending packets to a target device and checking whether those packets are successfully received or not, which helps in identifying problems with network communication.
+
++ ### **TCP**
+
+Transmission Control Protocol (TCP) is one of the most commonly used methods for sending data over a network. TCP makes sure that a reliable connection is set up between two devices (like computers) before any data is sent. This ensures the data reaches its destination without any errors. TCP is known as a "connection-oriented" protocol because it checks that both the sender and receiver are ready to communicate before sending anything. It also has built-in error-checking and flow control to ensure data is sent in the correct order and any lost packets are resent.
+
++ ### **UDP**
+
+UDP, or User Datagram Protocol, is a method for sending data over a network that doesn't require a direct connection between devices. Unlike TCP, UDP is "connectionless," meaning it doesn't check if the other device is ready before sending data. This makes it faster, but it can result in some data loss. UDP is often used for things like online video and voice calls, where losing a little bit of data doesn't cause major problems. It also doesn't have built-in error checking or flow control, which is why it’s faster but less reliable than TCP.
+
++ ### **TCP 3 Way Handshake**
+
+To start a proper TCP connection, the sender and receiver go through a process called a "3-way handshake" before sharing data. This handshake helps both devices agree on how they will communicate. It ensures that both sides are ready to exchange data reliably. The 3-way handshake involves three steps between the two devices to confirm the connection is established and working properly. The image below shows how this process works.
+
