@@ -1,1 +1,1 @@
-![NetworkScanning](Images/networkscanning.svg)
+![NetworkScanning](Images/networkscanning.png)
