@@ -66,7 +66,7 @@ Port scanning is a method where an attacker sends small test messages to a targe
 + ### **Some Well Known Ports**
 
   |      **TCP Protocol**        |      **UDP Protocol**        |
-  |-------------|----------------|-------------|----------------|
+  |------------------------------|------------------------------|
   | Application | Port Number(s) | Application | Port Number(s) |
   |-------------|----------------|-------------|----------------|
   | FTP         | 20-21          | DNS         | 53             |
