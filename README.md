@@ -35,8 +35,8 @@ Ports are like virtual doorways on a digital device that allow it to communicate
   |Ports         |       About        |
   |--------------|--------------------|
   | 0-1023       | Well-known Ports   |
-  | 1024-49135   | Random Ports       |
-  | 49136-65535  | Experimental Ports |
+  | 1024-49135   | Registered Ports   |
+  | 49136-65535  | Dynamic Ports      |
 
 
 + **What is port Scanning?**
@@ -52,7 +52,7 @@ Port scanning is a method where an attacker sends small test messages to a targe
 
 + **List of Port Scanning Methods**
 
-  + SYN Scan/Stealth Scan/
+  + SYN Scan/Stealth Scan
   + TCP Connect Scan
   + ACK Scan
   + XMAS Scan
@@ -61,4 +61,23 @@ Port scanning is a method where an attacker sends small test messages to a targe
   + OS Detection Scan 
   + Script Scan 
   + UDP Scan 
-  + Service Detection Scan 
+  + Service Detection Scan
+
++ **Some Well Known Ports**
+
+**TCP Protocol**
+
+  | Application | Port Number(s) |
+  |-------------|----------------|
+  | FTP         | 20-21          |
+  | Telnet      | 23             |
+  | SMTP        | 25             |
+  | HTTP        | 80             |
+  | POP3        | 110            |
+  | HTTPS       | 443            |
+  | SSH         | 22             |
+  | NetBIOS     | 139            |
+  | SQL         | 156            |
+
+
+  
