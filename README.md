@@ -16,9 +16,9 @@ During network scanning, attackers create a list of active IP addresses of compu
 
 + **List of Network Scanners**
 
-1. `Angry IP Scanner`
-2. `Advanced IP Scanner`
-3. `Netdiscover`
-4. `Nmap`
-5. `Autoscan`
-6. `hping3`
+1. [Angry IP Scanner](https://github.com/angryip/ipscan)
+2. [Advanced IP Scanner](https://bjansen.github.io/scoop-apps/extras/advanced-ip-scanner/)
+3. [Netdiscover](https://github.com/netdiscover-scanner/netdiscover)
+4. [Nmap](https://github.com/nmap/nmap)
+5. [Autoscan](https://github.com/darksh3llgr/autoscan)
+6. [hping3](https://github.com/HiddenShot/Hping3)
