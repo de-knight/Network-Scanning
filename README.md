@@ -109,4 +109,4 @@ To start a proper TCP connection, the sender and receiver go through a process c
 
 + ### **TCP Flags**
 
-![TCP3WayHandshake]()
+![TCP3WayHandshake](Images/TCPflags.png)
